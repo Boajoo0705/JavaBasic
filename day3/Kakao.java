@@ -13,7 +13,7 @@ public class Kakao {
 	public void setMsg(String msg) {
 		this.msg = msg;
 	}
-	private String getmsg() {
+	public String getmsg() {
 		return this.msg;
 	}
 		
